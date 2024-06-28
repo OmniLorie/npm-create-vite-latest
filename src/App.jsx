@@ -2,7 +2,7 @@
 import Recipes from "./pages/Recipes";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import Categories from "./pages/Categories";
-import Welcome from "./pages/welcome";
+import Welcome from "./pages/Welcome";
 import "./App.css";
 
 
